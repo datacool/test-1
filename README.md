@@ -1,4 +1,5 @@
-README 파일이란?
+![프로필 이미지](./beautiful-outer-space-galaxy-composite-image-elements-of-this-matthew-gibson.jpg)
+## README 파일이란?
 
 저장소에 대한 설명 작성하기
 
